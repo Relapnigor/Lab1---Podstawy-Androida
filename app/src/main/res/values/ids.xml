@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Przykładowe identyfikatory ułatwiające uruchomienie pracy.
+    -->
+    <item name="fragment_container" type="id" />
+    <item name="detail_container" type="id" />
+    <item name="attraction_list" type="id" />
+    <item name="attraction_name" type="id" />
+    <item name="attraction_location" type="id" />
+    <item name="attraction_summary" type="id" />
+    <item name="details_name" type="id" />
+    <item name="details_location" type="id" />
+    <item name="details_description" type="id" />
+    <item name="details_back_button" type="id" />
+</resources>
