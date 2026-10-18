@@ -42,6 +42,7 @@ Lab1 - Podstawy Androida/
 │           │       ├── AttractionAdapter.kt # Adapter listy
 │           │       └── Attraction.kt        # Model danych atrakcji
 │           ├── res/
+|           |   ├── anim/                    # Animacje
 │           │   ├── layout/
 │           │   │   ├── activity_main.xml    # Główny układ aktywności
 │           │   │   ├── fragment_list.xml    # Układ listy atrakcji
